@@ -24,3 +24,5 @@
 ## Notes
 
 If you want to resize the source, it is best to update the width & height within the source properties. Scaling it within the OBS interface will cause scaling artifacts. It'll look like 💩.
+
+If you have multiple scenes, I recommend creating a scene with just the chat in it, and then adding that scene to others (you can do this via a source). Otherwise, each time you switch scenes, the chat will reset.
